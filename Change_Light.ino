@@ -33,8 +33,8 @@ int lightValue[] = {0,0};
 
 bool tickOccured;
  
-const char* ssid     = "What Team?";
-const char* password = "12Sirius3";
+const char* ssid     = "";
+const char* password = "";
 
 const char* host = "10.0.0.6";
 const int httpPort = 80;
